@@ -1,2 +1,2 @@
-HackerRank Codes
-# HackerRank-Codes
+Java Codes
+# Java
